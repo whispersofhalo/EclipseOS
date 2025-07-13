@@ -29,7 +29,6 @@ Bir yandan sistemin her yönüne hâkim olabileceğiniz kadar sade ve açık, di
 - XFCE4 tabanlı sade bir masaüstü ortamı
 - Gereksiz sistem bileşenlerinden arındırılmış ISO yapısı
 - Kendi tema ve logo tasarımı
-- Özgün bir açılış ekranı (boot splash) ve sistem kimliği
 - Kişisel kullanım, türetme veya geliştirme için açık kaynak kodlar
 
 ---
